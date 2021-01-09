@@ -1,0 +1,26 @@
+.title{
+    font-size: 60px;
+    color: #0e80d2;
+    text-align: center;
+}
+.loginbtn{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.container{
+
+
+    padding-top: 20%;
+    min-height: 100vh;
+    background:url("../../assets/login.jpg") no-repeat;
+
+
+}
+
+.tip{
+    color: #0e80d2;
+    text-align: right;
+    margin-top: 10px;
+}

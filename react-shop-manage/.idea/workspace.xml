@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a19897c-ffed-40f4-ae57-c3230f4a98eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ae9DNLlHvXKURd8EaJfm9C1hUO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/Table" />
+      <recent name="$PROJECT_DIR$/src/pages/Profile" />
+      <recent name="$PROJECT_DIR$/src/pages/Home" />
+      <recent name="$PROJECT_DIR$/src/pages/Member" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/pages/Member" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a19897c-ffed-40f4-ae57-c3230f4a98eb" name="Default Changelist" comment="" />
+      <created>1587085071819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587085071819</updated>
+      <workItem from="1587085073341" duration="9234000" />
+      <workItem from="1587096110042" duration="18261000" />
+      <workItem from="1587124865988" duration="618000" />
+      <workItem from="1587129888751" duration="78000" />
+      <workItem from="1587130076310" duration="212000" />
+      <workItem from="1587180081674" duration="11525000" />
+      <workItem from="1587214210483" duration="1125000" />
+      <workItem from="1587282914609" duration="11000" />
+      <workItem from="1587290196271" duration="2823000" />
+      <workItem from="1587439643488" duration="2454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587121075640">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1587121075640" />
+    <state width="1189" height="209" key="GridCell.Tab.0.bottom" timestamp="1587443803600">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="209" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587443803600" />
+    <state width="1189" height="209" key="GridCell.Tab.0.center" timestamp="1587443803599">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="209" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587443803599" />
+    <state width="1189" height="209" key="GridCell.Tab.0.left" timestamp="1587443803598">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="209" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587443803598" />
+    <state width="1189" height="209" key="GridCell.Tab.0.right" timestamp="1587443803599">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="209" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587443803599" />
+  </component>
+</project>
